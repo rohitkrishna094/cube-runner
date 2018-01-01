@@ -13,7 +13,7 @@ This is a small mockup of multiplayer game in java using Slick2D, Kryonet and LW
 5. It should prompt you for ip address and port. Enter the ip address of that machine where the server is running. Enter 4070 as the port. 4070 is the default port used for this game.
 6. Other clients can connect to the same server using the same ip address and port 4070.
 7. Once inside you can play the game simultaneously. 
-![image](https://user-images.githubusercontent.com/18495886/34471630-82768bd6-ef1c-11e7-8d2b-93998e948b7f.png)
+![image](https://user-images.githubusercontent.com/18495886/34471678-5aa0e4f2-ef1d-11e7-90e5-cb650eef1d09.png)
 
 #### Single Player Gameplay instructions:
 1. You do not need to run the server to play this game mode.
