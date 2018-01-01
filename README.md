@@ -5,8 +5,7 @@ This is a small mockup of multiplayer game in java using Slick2D, Kryonet and LW
 
 #### Run the game as follows:
 1. Double click server.jar which should open the server window
-![image](https://user-images.githubusercontent.com/18495886/34471580-78146920-ef1b-11e7-9d69-80e4bbd70e7d.png)
-
+![image](https://user-images.githubusercontent.com/18495886/34471595-b6c80a14-ef1b-11e7-92e8-75e094a532eb.png)
 2. Now double click client.jar which should prompt you the username and password window. Just type your username to proceed. The authentication feature has not been implemented yet. 
 3. Now you can play single player as is (look for gameplay instructions below).
 4. To play multiplayer game, click on multiplayer button.
