@@ -19,7 +19,7 @@ This is a small mockup of multiplayer game in java using Slick2D, Kryonet and LW
 1. You do not need to run the server to play this game mode.
 2. Click on SinglePlayer button.
 3. Enter the bot count (the maximum is 10).
-![image](https://user-images.githubusercontent.com/18495886/34471671-405e95ee-ef1d-11e7-95a8-530fade7838f.png)
+![image](https://user-images.githubusercontent.com/18495886/34471678-5aa0e4f2-ef1d-11e7-90e5-cb650eef1d09.png)
 4. Once in the game mode, you can start playing. Use WASD keys to move your cube. Try to catch the scoring cube to win before the bots do. The collision between bots has been turned off. The first to catch 10 scoring cubes wins. You can hold TAB key to check the current scores.
 ![image](https://user-images.githubusercontent.com/18495886/34471660-db33f1b4-ef1c-11e7-911b-934d524cc252.png)
 5. Once someone catches 10 scoring cubes, the game ends by prompting the winner name and returns to the menu state.
